@@ -1,0 +1,96 @@
+*{
+margin: 0;
+padding: 0;
+}
+.header{
+    background-image: url('../New Year/images/banner/banner3.png');
+    height: 808px;
+   
+   text-align: right;
+  
+    background-repeat: no-repeat;
+}
+  
+ .first-div{
+  
+    padding-top: 150px;
+   padding-right: 230px;
+   padding-left: 845px;
+  
+}
+/* end of head section */
+.first-section{
+    height: 723px;
+    display: flex;
+    margin-top: 130px;
+    margin-left: 208px;
+}
+.my-pic{
+    height: 723px;
+    width: 500px;
+}
+.failures{
+    width: 416px;
+    height: 401px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    padding-left: 87px;
+  
+}
+/* end of section 1  */
+.planning{
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 130px;
+}
+
+.parent{
+    display: flex;
+    margin-left: 230px;
+  
+}
+.child{
+    margin: 20px;
+    padding-left: 20px;
+}
+/* end the section of my plan */
+.gradiant{
+    margin-top: 130px;
+    margin-left: 130px;
+    border: 5px ;
+    border-radius: 5px;
+    background:  url('../New Year/images/watch.png');
+    height: 300px;
+    width: 1140px;
+    background-repeat: no-repeat;
+ } 
+ .over_lap{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    opacity: .8;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+ }
+  /* end of section of gradient */
+  .fear{
+    text-align: center;
+    display: flex;
+    margin-top: 130px;
+    margin-bottom: 130px;
+ }
+ .footer{
+    background-color: black;
+    margin-top: 130px;
+    padding: 50px;
+
+}
+ .f_child1{
+    color: white;
+    height: 320px;
+    width: 380px;
+    padding-left: 230px;
+ }
+   .f-child2{
+    color: white;
+    padding-left: 50px;
+   }
