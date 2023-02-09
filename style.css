@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 }
 .header{
-    background-image: url('../New Year/images/banner/banner3.png');
+    background-image: url('/images/banner/banner3.png');
     height: 808px;
    
    text-align: right;
@@ -59,7 +59,7 @@ padding: 0;
     margin-left: 130px;
     border: 5px ;
     border-radius: 5px;
-    background:  url('../New Year/images/watch.png');
+    background:  url('/images/watch.png');
     height: 300px;
     width: 1140px;
     background-repeat: no-repeat;
